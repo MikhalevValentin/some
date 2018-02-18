@@ -45,6 +45,7 @@
 	&-menu__icon {
 		display: block;
 		width: 60px;
+		cursor: pointer;
 
 		svg {
 			display: block;
@@ -95,6 +96,10 @@
 
 	.menu-button {
 		display: none;
+		width: 40px;
+		height: 40px;
+		margin: 8px auto;
+		cursor: pointer;
 	}
 }
 

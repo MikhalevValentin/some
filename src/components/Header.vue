@@ -4,14 +4,6 @@
 			Lorem ipsum dolor sit amet consectetur adipisicing elit.
 			Tempore, repellat officia. Facere aliquam consequuntur nesciunt asperiores officia impedit sequi dicta.
 		</div>
-		<div class="header-app-item">
-			Lorem ipsum dolor sit amet consectetur adipisicing elit.
-			Tempore, repellat officia. Facere aliquam consequuntur nesciunt asperiores officia impedit sequi dicta.
-		</div>
-		<div class="header-app-item">
-			Lorem ipsum dolor sit amet consectetur adipisicing elit.
-			Tempore, repellat officia. Facere aliquam consequuntur nesciunt asperiores officia impedit sequi dicta.
-		</div>
 	</header>
 </template>
 
